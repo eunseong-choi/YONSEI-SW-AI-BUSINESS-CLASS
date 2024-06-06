@@ -6,4 +6,4 @@ DEMO : https://eunseong-choi.github.io/YONSEI-SW-AI-BUSINESS-CLASS/
 2. 핸드폰(아이폰) 기준) 1. Photo Library 2. Take Photo 3. Choose File 버튼이 뜹니다.
 3. 버리게 될 쓰레기를 사진 찍습니다.
 4. 업로드시, 인공지능이 쓰레기를 분류합니다.
-5. 팝업창이 뜨면서, 쓰레기 분리 배출에 대한 정확한 정보 및 포인트를 제공합니다. 끝.
+5. 팝업창이 뜨면서, 쓰레기 분리 배출에 대한 정확한 정보를 제공합니다. 끝.
