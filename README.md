@@ -1,2 +1,2 @@
 # YONSEI-SW-AI-BUSINESS-CLASS
-DEMO : https://YONSEI-SW-AI-BUSINESS-CLASS.github.io/
+DEMO : https://eunseong-choi.github.io/YONSEI-SW-AI-BUSINESS-CLASS/
